@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "autor": "Alan Turing",
+    "frase": "Solo podemos ver poco dle futuro, pero lo suficiente para ver que hay mucho por hacer."
+  },
+  {
+    "id": 2,
+    "autor": "Linus Benedict Torvalds",
+    "frase": "Hablar es barato. Enséñame el código."
+  },
+  {
+    "id": 3,
+    "autor": "Grace Hopper",
+    "frase": "La frase más peligrosa del lenguaje es: 'Siempre lo hemos hecho así.'"
+  },
+  {
+    "id": 4,
+    "autor": "Tim Berners-Lee",
+    "frase": "La web no conecta computadoreas, conecta personas."
+  }
+]
